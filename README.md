@@ -1,6 +1,6 @@
 ![Header](https://github.com/imroknujjamanrony/imroknujjamanrony/blob/main/cover5.png?raw=true)
 <h1 align="center">Hi 👋, I'm Md Roknujjaman Rony</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh.Passionate MERN Stack Developer | Skilled in HTML, CSS, Tailwind CSS, JavaScript, React.js, and MongoDB | Constantly learning and building projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imroknujjamanrony&label=Profile%20views&color=0e75b6&style=flat" alt="imroknujjamanrony" /> </p>
 
