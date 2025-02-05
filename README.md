@@ -13,12 +13,7 @@
 - 📞 How to reach me **roknujjamanrony1234@gmail.com** | **+8801314267382**
 - ⚡ Fun fact **I am a bike lover and movie lover.**
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imroknujjamanrony&show_icons=true&locale=en&layout=compact" alt="imroknujjamanrony" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imroknujjamanrony&show_icons=true&locale=en" alt="imroknujjamanrony" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imroknujjamanrony&" alt="imroknujjamanrony" /></p>
 
 <h3 align="left">Contributions & Streaks:</h3>
 <p align="center">
