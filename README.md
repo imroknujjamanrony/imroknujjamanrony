@@ -1,43 +1,82 @@
+<!-- Header Banner -->
 ![Header](https://github.com/imroknujjamanrony/imroknujjamanrony/blob/main/cover5.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Md Roknujjaman Rony</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh. Passionate MERN Stack Developer | Skilled in HTML, CSS, Tailwind CSS, JavaScript, React.js, and MongoDB | Constantly learning and building projects.</h3>
+<h3 align="center">Frontend Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imroknujjamanrony&label=Profile%20views&color=0e75b6&style=flat" alt="imroknujjamanrony" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imroknujjamanrony&label=Profile%20views&color=0e75b6&style=flat" alt="imroknujjamanrony" />
+</p>
 
-- 🔥 I’m currently working on [JobHive](https://jobhive-agency.vercel.app/)
-- 📚 I’m currently learning **Next.js, TypeScript**
-- 👥 I’m looking to collaborate on [Marathon-Hub](https://marathon-hub-12397.web.app/)
-- 💪 I’m looking for help with [Winter-Clothing-Donation](https://winter-clothing-donation-ec332.web.app/home)
-- 💬 Ask me about **React, JavaScript**
-- 📞 How to reach me **roknujjamanrony1234@gmail.com** | **+8801314267382**
-- ⚡ Fun fact **I am a bike lover and movie lover.**
+---
 
+### 🔥 About Me
+- 💼 Currently working on: [**JobHive**](https://jobhive-agency.vercel.app/)
+- 📘 Learning: **Next.js**, **TypeScript**
+- 🤝 Collaborating on: [**Marathon-Hub**](https://marathon-hub-12397.web.app/)
+- 🌱 Helping with: [**Winter-Clothing-Donation**](https://winter-clothing-donation-ec332.web.app/home)
+- 🧠 Ask me about: **React**, **JavaScript**
+- 📫 Reach me at: **roknujjamanrony1234@gmail.com** | 📞 **+8801314267382**
+- 🏍️ Fun fact: I'm a bike and movie lover!
 
+---
 
-<h3 align="left">Contributions & Streaks:</h3>
+### 🛠 My Skill Set
+
+#### 👨‍💻 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+
+#### 🧩 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://x.com/roknujjamanron2" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-roknujjaman-rony-906780210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/imroknujjamanrony" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imroknujjamanrony&theme=github_dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imroknujjamanrony&theme=dark" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imroknujjamanrony&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imroknujjamanrony&theme=github_dark" alt="Coding Time" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/roknujjamanron2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-roknujjaman-rony-906780210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/imroknujjamanrony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+---
+
+### 🎯 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imroknujjamanrony&theme=github_dark" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
-</p>
+---
+
+### 🧠 Quote to Remember
+
+> *"It was a turning point in my programming career when I realized that I didn’t have to win every argument."*  
+> — **Ward Cunningham**
+
+---
+
+> 🧡 *Thank you for visiting my profile! Feel free to connect or collaborate.*
+
